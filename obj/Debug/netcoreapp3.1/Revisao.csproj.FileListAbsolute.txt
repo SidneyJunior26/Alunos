@@ -1,0 +1,11 @@
+C:\Users\sidne\OneDrive - Fatec Centro Paula Souza\Cursos\Digital Innovation One\.NET + C#\Primeiros Passos com .Net + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\sidne\OneDrive - Fatec Centro Paula Souza\Cursos\Digital Innovation One\.NET + C#\Primeiros Passos com .Net + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\sidne\OneDrive - Fatec Centro Paula Souza\Cursos\Digital Innovation One\.NET + C#\Primeiros Passos com .Net + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\sidne\OneDrive - Fatec Centro Paula Souza\Cursos\Digital Innovation One\.NET + C#\Primeiros Passos com .Net + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\sidne\OneDrive - Fatec Centro Paula Souza\Cursos\Digital Innovation One\.NET + C#\Primeiros Passos com .Net + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\sidne\OneDrive - Fatec Centro Paula Souza\Cursos\Digital Innovation One\.NET + C#\Primeiros Passos com .Net + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\sidne\OneDrive - Fatec Centro Paula Souza\Cursos\Digital Innovation One\.NET + C#\Primeiros Passos com .Net + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\sidne\OneDrive - Fatec Centro Paula Souza\Cursos\Digital Innovation One\.NET + C#\Primeiros Passos com .Net + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\sidne\OneDrive - Fatec Centro Paula Souza\Cursos\Digital Innovation One\.NET + C#\Primeiros Passos com .Net + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\sidne\OneDrive - Fatec Centro Paula Souza\Cursos\Digital Innovation One\.NET + C#\Primeiros Passos com .Net + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\sidne\OneDrive - Fatec Centro Paula Souza\Cursos\Digital Innovation One\.NET + C#\Primeiros Passos com .Net + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
